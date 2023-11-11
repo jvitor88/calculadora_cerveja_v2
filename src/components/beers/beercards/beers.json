@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "image": "./midia/litrao.png",
+        "name": "Litrão",
+        "ml": 1000
+    },
+    {
+        "id": 1,
+        "image": "./midia/long.png",
+        "name": "Long Neck",
+        "ml": 330
+    },
+    {
+        "id": 2,
+        "image": "./midia/garrafa.png",
+        "name": "Garrafa",
+        "ml": 600
+    },
+    {
+        "id": 3,
+        "image": "./midia/mini.png",
+        "name": "Mini",
+        "ml": 300
+    },
+    {
+        "id": 4,
+        "image": "./midia/latao.png",
+        "name": "Latão",
+        "ml": 473
+    },
+    {
+        "id": 5,
+        "image": "./midia/lata.png",
+        "name": "Lata",
+        "ml": 350
+    },
+    {
+        "id": 6,
+        "image": "./midia/latinha.png",
+        "name": "Latinha",
+        "ml": 269
+    },
+    {
+        "id": 7,
+        "image": "./midia/outros.png",
+        "name": "Outros",
+        "ml": 0
+    }
+]
